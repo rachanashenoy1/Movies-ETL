@@ -1,1 +1,1 @@
-db_password = "1910"
+db_password = ""
